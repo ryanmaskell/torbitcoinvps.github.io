@@ -24,6 +24,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [snelserver.com](https://snelserver.com) | $4 | $105 | True
 [vpsbg.eu](https://vpsbg.eu) | $12 | $142 | True
 [yourserver.se](https://yourserver.se) | $5 | $47 | Unknown
+[bitlaunch.io](https://bitlaunch.io) | $10 | $20 | True
 
 ## Sources
 * http://cryto.net/%7Ejoepie91/bitcoinvps.html [^1]
